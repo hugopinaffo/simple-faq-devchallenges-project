@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://hugopinaffo.github.io/simple-faq-devchallenges-project/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/hugopinaffo/simple-faq-devchallenges-project">
       Solution
     </a>
     <span> | </span>
@@ -24,7 +24,7 @@
 
 ![screenshot](./assets/thumbnail.jpg)
 
-### 🛠️ Built with 
+### 🛠️ Built with
 
 - Semantic HTML5 markup
 - CSS3 custom properties
@@ -32,7 +32,7 @@
 
 ### 💡 What I learned
 
-This project primarily strengthened my understanding of responsive web design, utilizing the concept of a box-model and CSS styling to display content on different devices. The challenge also helped me become familiar with CSS and HTML syntax. Additionally, I was able to practice SEO techniques using metadata in semantic HTML.
+This project primarily strengthened my understanding of responsive web design, utilizing the concepts of box-model, responsive web design and CSS styling to display content on different devices. The challenge also helped me become familiar with CSS and HTML syntax. Additionally, I was able to practice SEO techniques using metadata in semantic HTML.
 
 ## 🎯 The purpose
 
